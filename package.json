@@ -1,0 +1,28 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sskumar4/NoteTaker.git"
+  },
+  "keywords": [
+    "expressJS",
+    "nodeJS",
+    "JavaScript",
+    "HTML"
+  ],
+  "author": "Sudha Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sskumar4/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/sskumar4/NoteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
