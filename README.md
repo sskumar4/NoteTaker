@@ -6,11 +6,11 @@
 ![video](assets/NoteTaker.gif)
 
 <!-- vscode-markdown-toc -->
-* 1. [Links to deployed application and repository:](#Linkstodeployedapplicationandrepository:)
-* 2. [Introduction:](#Introduction:)
-* 3. [Technologies:](#Technologies:)
+* 1. [Links to deployed application and repository](#Linkstodeployedapplicationandrepository)
+* 2. [Introduction:](#Introduction)
+* 3. [Technologies:](#Technologies)
 * 4. [Files](#Files)
-* 5. [Features:](#Features:)
+* 5. [Features:](#Features)
 * 6. [Launch](#Launch)
 
 <!-- vscode-markdown-toc-config
@@ -22,14 +22,14 @@
 
 Table of Contents
 
-##  1. <a name='Linkstodeployedapplicationandrepository:'></a>Links to deployed application and repository:
+##  1. <a name='Linkstodeployedapplicationandrepository'></a>Links to deployed application and repository
 * [Deployed Application](https://mysterious-oasis-01338.herokuapp.com/)
 * [Repository](https://github.com/sskumar4/NoteTaker)
 
-##  2. <a name='Introduction:'></a>Introduction:   
+##  2. <a name='Introduction'></a>Introduction   
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
-##  3. <a name='Technologies:'></a>Technologies: 
+##  3. <a name='Technologies'></a>Technologies 
 HTML, CSS, Javascript, nodeJS, express
 
 ##  4. <a name='Files'></a>Files
@@ -41,7 +41,7 @@ js files:
 css files
   * styles.css
 
-##  5. <a name='Features:'></a>Features:
+##  5. <a name='Features'></a>Features
   * The following HTML routes were created:
   * GET `/notes` - returns the `notes.html` file.
 
