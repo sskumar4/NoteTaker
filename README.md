@@ -3,7 +3,7 @@
 
 [![picture 2](assets/NT-thumbnail.jpg)](https://mysterious-oasis-01338.herokuapp.com/) 
 
-[!video](assets/NoteTaker.gif)
+![video](assets/NoteTaker.gif)
 
 <!-- vscode-markdown-toc -->
 * 1. [Links to deployed application and repository:](#Linkstodeployedapplicationandrepository:)
