@@ -7,8 +7,8 @@
 
 <!-- vscode-markdown-toc -->
 * 1. [Links to deployed application and repository](#Linkstodeployedapplicationandrepository)
-* 2. [Introduction:](#Introduction)
-* 3. [Technologies:](#Technologies)
+* 2. [Introduction](#Introduction)
+* 3. [Technologies](#Technologies)
 * 4. [Files](#Files)
 * 5. [Features:](#Features)
 * 6. [Launch](#Launch)
