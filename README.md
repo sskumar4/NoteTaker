@@ -5,6 +5,8 @@
 
 ![video](assets/NoteTaker.gif)
 
+## Table of Contents
+
 <!-- vscode-markdown-toc -->
 * 1. [Links to deployed application and repository](#Linkstodeployedapplicationandrepository)
 * 2. [Introduction](#Introduction)
@@ -18,9 +20,6 @@
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-
-
-Table of Contents
 
 ##  1. <a name='Linkstodeployedapplicationandrepository'></a>Links to deployed application and repository
 * [Deployed Application](https://mysterious-oasis-01338.herokuapp.com/)
