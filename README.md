@@ -1,21 +1,38 @@
-# NoteTaker
-[![picture 2](assets/NT-thumbnail.jpg)](https://mysterious-oasis-01338.herokuapp.com/)  
-
-# Links to deployed application and repository:
-* [Deployed Application](https://mysterious-oasis-01338.herokuapp.com/)
-* [Repository](https://github.com/sskumar4/NoteTaker)
-
-
 # Project Name: NoteTaker
 # Title: Note Taker
 
-## Introduction:   
+[![picture 2](assets/NT-thumbnail.jpg)](https://mysterious-oasis-01338.herokuapp.com/) 
+
+[!video](assets/NoteTaker.gif)
+
+<!-- vscode-markdown-toc -->
+* 1. [Links to deployed application and repository:](#Linkstodeployedapplicationandrepository:)
+* 2. [Introduction:](#Introduction:)
+* 3. [Technologies:](#Technologies:)
+* 4. [Files](#Files)
+* 5. [Features:](#Features:)
+* 6. [Launch](#Launch)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+
+Table of Contents
+
+##  1. <a name='Linkstodeployedapplicationandrepository:'></a>Links to deployed application and repository:
+* [Deployed Application](https://mysterious-oasis-01338.herokuapp.com/)
+* [Repository](https://github.com/sskumar4/NoteTaker)
+
+##  2. <a name='Introduction:'></a>Introduction:   
 Create an application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
-## Technologies: 
+##  3. <a name='Technologies:'></a>Technologies: 
 HTML, CSS, Javascript, nodeJS, express
 
-## Files
+##  4. <a name='Files'></a>Files
 Created the following 
 html files: 
   * index.html, notes.html
@@ -24,7 +41,7 @@ js files:
 css files
   * styles.css
 
-## Features:
+##  5. <a name='Features:'></a>Features:
   * The following HTML routes were created:
   * GET `/notes` - returns the `notes.html` file.
 
@@ -41,7 +58,7 @@ css files
   * DELETE `/api/notes/:id` - receives a query parameter containing the id of a note to delete. Each note has a unique `id` when it's saved. In order to delete a note, read all notes from the `db.json` file, remove the note with the given `id` property, and then rewrite the notes to the `db.json` file.
   
 
-## Launch
+##  6. <a name='Launch'></a>Launch
 
 Launch [Deployed Application](https://mysterious-oasis-01338.herokuapp.com/) to view the index. 
 
